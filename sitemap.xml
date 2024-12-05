@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://michellesmusicstudio.co.uk/eleventy-base-blog/about/</loc>
+		<loc>https://michellesmusicstudio.co.uk/about/</loc>
 		<lastmod>2024-12-05</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://michellesmusicstudio.co.uk/eleventy-base-blog/contact/</loc>
+		<loc>https://michellesmusicstudio.co.uk/contact/</loc>
 		<lastmod>2024-12-05</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://michellesmusicstudio.co.uk/eleventy-base-blog/</loc>
+		<loc>https://michellesmusicstudio.co.uk/</loc>
 		<lastmod>2024-12-05</lastmod>
 	</url>
 </urlset>
